@@ -10,3 +10,5 @@ To request data
 
 1. navigate to localhost:PORT/price
 2. the server should respond to your GET request with a JSON containing a stock symbol, and price.
+
+![SDM](https://github.com/simatt99/micro/blob/main/microservice%20SDM.png)
